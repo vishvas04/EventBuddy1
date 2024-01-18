@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.input1{
+    width: 200px;
+}
+.form1{
+    width: 600px; height: 700px;
+}
+.heading{
+    text-align: center; color: gray;
+}
+.para{
+    color: grey;
+}
